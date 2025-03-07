@@ -1,0 +1,11 @@
+.active{
+    background-color: #4a00ff;
+    color:  white;
+    border: none;
+    
+}
+.active:hover{
+    background-color: #4a00ff;
+    color:  white;
+    border: none;
+}
